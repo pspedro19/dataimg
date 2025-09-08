@@ -150,7 +150,7 @@ class ImageRenamer:
 if __name__ == "__main__":
     # --- Modifica esta variable con la ruta de tu carpeta ---
     # Ejemplo con tu ruta específica:
-    ruta_carpeta_a_renombrar = r"C:\Users\natus\Documents\Trabajo\PEDRO_PEREZ\ICFES\Matematicas\Imagenes_Matematicas\Preguntas Matemáticas ICFES"
+    ruta_carpeta_a_renombrar = r"C:\Users\natus\Documents\Trabajo\PEDRO_PEREZ\ICFES\Matematicas\Imagenes_Matematicas\CuadernilloSaber11Matematicas2012"
     
     try:
         renamer = ImageRenamer(ruta_carpeta_a_renombrar)
